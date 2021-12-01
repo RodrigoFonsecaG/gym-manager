@@ -44,22 +44,6 @@
 
 ---------
 
-## 📺 Criação do banco de dados
-No PostgreSQL execute o arquivo `gymmanager.sql` em `database/gymmanager.sql` para criar o banco de dados, tabelas e popular.
-
-Acesse o arquivo `db.js` em `src/config/db.js` e configure o usuário e senha de conexão com o PostgreSQL.
-
-```js
-module.exports = new Pool({
-    // user: 'Usuário PostgreSQL',
-    // password: 'Senha PostgreSQL',    
-    host: 'localhost',
-    port: 5432,
-    database: 'gymmanager'
-});
-
----------
-
 ## 💻 Instalação e uso
 
 ```bash
