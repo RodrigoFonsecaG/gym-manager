@@ -18,9 +18,6 @@
     <img src="show.png"
 </h1> 
 
-<h1>
-    <img src="edit.png"
-</h1> 
 
 <h1>
     <img src="create.png"
