@@ -11,19 +11,19 @@
 ## 🖥️ Demonstração
 
 <h1>
-    <img src="teachers-index.png"
+    <img src="index.png"
 </h1> 
 
 <h1>
-    <img src="teachers-details.png"
+    <img src="show.png"
 </h1> 
 
 <h1>
-    <img src="students-index.png"
+    <img src="edit.png"
 </h1> 
 
 <h1>
-    <img src="students-details.png"
+    <img src="create.png"
 </h1> 
 
 
