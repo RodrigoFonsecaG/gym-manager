@@ -3,7 +3,7 @@
 
 ## 📝 Sobre
 
-**Gym manager** é um controlador de uma academia
+**Gym manager** é um controlador de uma academia, que permite criar/editar/deletar/filtrar instrutores e alunos
 
 
 ---------
