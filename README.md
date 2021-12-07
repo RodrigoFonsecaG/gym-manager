@@ -61,3 +61,18 @@ $ npm start
 ```
 
 -----------
+    
+## 📦 Criação do banco de dados
+Crie o banco de dados no postbird
+
+Acesse o arquivo `db.js` em `src/config/db.js` e configure o usuário e senha de conexão com o PostgreSQL.
+
+```js
+module.exports = new Pool({
+    // user: 'Usuário PostgreSQL',
+    // password: 'Senha PostgreSQL',    
+    host: 'localhost',
+    port: 5432,
+    database: 'gymmanager'
+});
+
